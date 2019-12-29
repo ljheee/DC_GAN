@@ -1,0 +1,13 @@
+Metadata-Version: 2.0
+Name: torchvision
+Version: 0.1.6
+Summary: image and video datasets and models for torch deep learning
+Home-page: https://github.com/pytorch/vision
+Author: PyTorch Core Team
+Author-email: soumith@pytorch.org
+License: BSD
+Platform: UNKNOWN
+
+torch-vision provides DataLoaders, Pre-trained models
+and common transforms for torch for images and videos
+
